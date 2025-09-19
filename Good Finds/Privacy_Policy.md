@@ -29,10 +29,8 @@ Below, we list the permissions the app may request from you (if you use the feat
 
 
 | Permission | Why it is required |
-
-| :---: | --- |
-
-|  `android.permission.READ\_CONTACTS` | This permission is requested from you only if you want to create Trust Circles in the App. Otherwise, we will not ask for this permission. |
+| ----- | ----- |
+|  `android.permission.READ_CONTACTS` | This permission is requested from you only if you want to create Trust Circles in the App. Otherwise, we will not ask for this permission. |
 
 
 
@@ -43,5 +41,6 @@ If you find any security vulnerability that has been inadvertently caused by us,
 Yours sincerely, 
 
 Delight Labs team
+
 
 
